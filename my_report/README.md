@@ -2,7 +2,7 @@
 
 ### First and Last Name: Δέσποινα Γρηγορέλη
 ### University Registration Number: dpsd18025
-### GitHub Personal Profile: dpsd18025
+### GitHub Personal Profile: dpsd18025.github.io/Role-Playing-Game/
 ### Digital & Serious Games Personal Repository: xxx
 
 # Introduction
