@@ -98,3 +98,8 @@ https://www.youtube.com/watch?v=isGaq0fvCCI
 
 -ήχος στις πίστες:
 https://www.youtube.com/watch?v=kLEjF6M_FsE&t=3s
+
+-sprite sheet:
+https://stardewvalleymods.net/skirt-dress-farmer-mod/
+https://alemunin.artstation.com/projects/q9Ok1z
+https://www.deviantart.com/camilaxiao/art/Chicken-Animation-Sprite-Sheet-857232181
