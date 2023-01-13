@@ -9,7 +9,7 @@
 Το  παιχνίδι δημιουργείται στα πλαίσια του εξαμήνου και συγκεκριμένα του μαθήματος "Ψηφιακά Παιχνίδια και Παιγνιώδης Μάθηση".Το παιχνίδι ονομάζεται «chicken coop» και αναπαριστά μια φάρμα και συγκεκριμένα ένα κοτέτσι. Το είδος που ακολουθείται είναι Role-Playing game.
 
 # Summary
-Σκοπός είναι αφότου ολοκληρωθεί να υπάρχει ο main χαρακτήρας ,δηλαδή η κότα και να προσπαθεί να ξεφύγει από τον «κακό», την αλεπού ( η οποία θα προστεθεί στην συνέχεια). Θα υπάρχει και η δυνατότητα συλλογής πόντων μέσω  "καλαμποκιού" και "σίτου". Θα υπάρξει και επόμενο level με μεγαλύτερη δυσκολία.
+Σκοπός είναι αφότου ολοκληρωθεί να υπάρχει ο main χαρακτήρας ,δηλαδή η κότα και να προσπαθεί να ξεφύγει από τον «κακό», την αλεπού ( η οποία θα προστεθεί στην συνέχεια). Θα υπάρχει και η δυνατότητα συλλογής πόντων μέσω  "καλαμποκιού" και "σίτου". Θα υπάρξει και επόμενο level.
 
 # 1st Deliverable
 Για το πρώτο παραδοτέο έχουν ακολουθηθεί οι οδηγίες από τα επισυναπτόμενα tutorials καθώς και κάποια βίντεο από το youtube για συγκεκριμένες εντολές.Συγκεκριμένα από αυτο (https://www.youtube.com/watch?v=DTp5zi8_u1U ) το οποίο με βοήθησε στην πραγματοποίηση του tilemaps.
@@ -62,7 +62,7 @@ Mέσω των κατάλληλων οδηγιών από τα tutorials κατ�
 
 ![hole](https://user-images.githubusercontent.com/115796313/211921432-a15ac732-c87d-4bb0-becc-074f5aebc547.png)
 
-Στην συνέχεια, προστέθηκε το Audio Source που παίζει καθόλη την διάρκεια του παιχνιδιού σαν Background Music καθώς και προστέθηκε στην κότα Audio Source το οποίο παίζει μόνο όταν εκτοξεύουμε αυγά.
+Στην συνέχεια, προστέθηκε το Audio Source που ακούγεται καθόλη την διάρκεια του παιχνιδιού σαν Background Music καθώς και προστέθηκε στην κότα Audio Source το οποίο παίζει μόνο όταν εκτοξεύουμε αυγά.
 
 Τέλος , δημιουργήθηκε ένα αρχικό Menu με την επιλογή δύο σκηνών "chicken coop" , "farm" καθώς και ένα κουμπί εξόδου "Quit". Για την δημιουργία του menu βοήθησε το συγκεκριμένο βίντεο ( https://www.youtube.com/watch?v=mGjqmK_O5jA&t=309s )
 
@@ -92,6 +92,7 @@ Mέσω των κατάλληλων οδηγιών από τα tutorials κατ�
 -video που βοήθησαν:
 https://www.youtube.com/watch?v=whzomFgjT50&t=277s
 https://www.youtube.com/watch?v=BLfNP4Sc_iA&t=801s
+https://www.youtube.com/watch?v=DTp5zi8_u1U
 
 -ήχος menu:
 https://www.youtube.com/watch?v=isGaq0fvCCI
@@ -103,3 +104,12 @@ https://www.youtube.com/watch?v=kLEjF6M_FsE&t=3s
 https://stardewvalleymods.net/skirt-dress-farmer-mod/
 https://alemunin.artstation.com/projects/q9Ok1z
 https://www.deviantart.com/camilaxiao/art/Chicken-Animation-Sprite-Sheet-857232181
+
+-sprites
+https://www.artstation.com/artwork/k52Kd
+https://www.pngaaa.com/detail/2980039
+https://imgbin.com/png/hN7K1eWM/corn-png
+https://gr.pinterest.com/pin/631841022717897420/
+https://imgbin.com/png/Ret7F8ci/rock-png
+https://www.pngitem.com/middle/wRJiTh_transparent-background-rock-clipart-hd-png-download/
+https://www.pngitem.com/middle/hThiTTx_hole-png-free-download-crack-in-wall-drawing/
